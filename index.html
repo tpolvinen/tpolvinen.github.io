@@ -12,13 +12,20 @@
           $scope.names.push($scope.enteredName);
           $scope.enteredName = '';
         };
+
+        $scope.removeName = function(name) {
+          var i = $scope.names.indexOf(name);
+          $scope.names.splice(i, 1);
+        };
       });
     </script>
   </head>
   <body ng-controller="NameCtrl">
     Every:
    <ul>
-      <li ng-repeat="name in names">{{name}}</li>
+      <li ng-repeat="name in names">{{name}}
+          <a href="" ng-click="removeName(name)">Poista</a>
+      </li>
     </ul>
     <form ng-submit="addName()">
       <input type="text" ng-model="enteredName">
