@@ -24,14 +24,14 @@
     Every:
    <ul>
       <li ng-repeat="name in names">{{name}}
-          <a href="" ng-click="removeName(name)">Poista</a>
+          <button ng-click="removeName(name)">
+            Poista
+          </button>
       </li>
     </ul>
     <form ng-submit="addName()">
       <input type="text" ng-model="enteredName">
       <input type="submit" value="lisää">
     </form>
-    <br><br>
-    ...ja koodari-Tatu lähettää terkkuja!
   </body>
 </html>
