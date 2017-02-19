@@ -22,13 +22,18 @@
   </head>
   <body ng-controller="NameCtrl">
     Every:
-   <ul>
-      <li ng-repeat="name in names">{{name}}
-          <button ng-click="removeName(name)">
+   
+      <table>
+  <tr ng-repeat="name in names">
+    <td>{{name}}</td>
+    <td>
+        <button ng-click="removeName(name)">
             Poista
           </button>
-      </li>
-    </ul>
+    </td>
+  </tr>
+</table>
+    
     <form ng-submit="addName()">
       <input type="text" ng-model="enteredName">
       <input type="submit" value="lisää">
