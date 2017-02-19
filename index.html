@@ -5,14 +5,14 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
   </head>
   <body>
-    Nimi:<input ng-model="name" type="text"/>
+    Etunimi:<input ng-model="firstName" type="text"/>
     <br><br>
-    Nimi:<input ng-model="name" type="text"/>
+    Sukunimi:<input ng-model="lastName" type="text"/>
     <br><br>
-    Nimi:<input ng-model="name" type="text"/>
+    Koodari:<input ng-model="name" type="text"/>
     <br><br>
-    Hei {{name}}!
+    Hei {{firstName}} {{lastName}}!
     <br><br>
-    ...ja Tatulta terkkuja!
+    ...ja koodari-{{name}} lähettää terkkuja!
   </body>
 </html>
