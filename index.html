@@ -6,28 +6,15 @@
     <script>
       var nameApp = angular.module('nameApp', []);
       nameApp.controller('NameCtrl', function ($scope){
-       
-        setTimeout(function(){
-          $scope.firstName = 'etunimi';
-          $scope.$apply();
-        }, 1000);
-
-        setTimeout(function(){
-          $scope.lastName = 'sukunimi';
-          $scope.$apply();
-        }, 5000);
+        $scope.names = ['Tom', 'Dick', 'Harry'];
       });
     </script>
   </head>
   <body ng-controller="NameCtrl">
-    Etunimi:<input ng-model="firstName" type="text"/>
+   <ul>
+      <li ng-repeat="name in names">{{name}}</li>
+    </ul>
     <br><br>
-    Sukunimi:<input ng-model="lastName" type="text"/>
-    <br><br>
-    Koodari:<input ng-model="name" type="text"/>
-    <br><br>
-    Hei {{firstName}} {{lastName}}!
-    <br><br>
-    ...ja koodari-{{name}} lähettää terkkuja!
+    ...ja koodari-Tatu lähettää terkkuja!
   </body>
 </html>
