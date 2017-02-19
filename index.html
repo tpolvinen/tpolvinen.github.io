@@ -9,5 +9,13 @@
     Hello world!
     <br><br>
     Tatulta terkkuja!
+
+    <script>
+      var textInputElement = document.getElementById('textInput');
+
+      textInputElement.addEventListener('keyup', function(){
+        console.log('Haaviin jäi: Got keyup event.');
+      });
+    </script>
   </body>
 </html>
