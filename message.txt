@@ -1,1 +1,1 @@
-Muutos: Updating a span when input text changes using Backbone.
+Muutos: Updating a template when input text changes using Angular.

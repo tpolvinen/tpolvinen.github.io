@@ -1,35 +1,14 @@
-<html>
+<html ng-app>
   <head>
     <meta charset="utf-8">
-    <title>Backbonella</title>
-    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script>
-    <script src="//jashkenas.github.io/underscore/underscore-min.js"></script>
-    <script src="//jashkenas.github.io/backbone/backbone-min.js"></script>
+    <title>Angular.js:llä</title>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
   </head>
   <body>
-    Nimi:<input id="textInput" type="text"/>
+    Nimi:<input ng-model="name" type="text"/>
     <br><br>
-    Hei <span id="nameDiv"></span>!
+    Hei {{name}}!
     <br><br>
     ...ja Tatulta terkkuja!
-
-    <script>
-
-      // Model
-      var model = new Backbone.Model({
-        name: ''
-      });
-
-      // View
-      model.on('change:name', function(){
-        $('#nameSpan').html(model.get('name'));
-      });
-
-      // Controller
-      $('#textInput').on('keyup', function(){
-        model.set('name', $('#textInput').val());
-      });
-
-    </script>
   </body>
 </html>
