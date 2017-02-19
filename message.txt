@@ -1,1 +1,1 @@
-Lisätty, eli: Added keyup event listener on textInput.
+Muutos: Extracting text from the text input as it changes.

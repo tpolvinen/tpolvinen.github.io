@@ -6,15 +6,14 @@
   <body>
     Name:<input id="textInput" type="text"/>
     <br><br>
-    Hello world!
-    <br><br>
     Tatulta terkkuja!
 
     <script>
       var textInputElement = document.getElementById('textInput');
 
       textInputElement.addEventListener('keyup', function(){
-        console.log('Haaviin jäi: Got keyup event.');
+        var text = textInputElement.value;
+        console.log('Uusi teksti on "' + text + '"');
       });
     </script>
   </body>
