@@ -1,13 +1,14 @@
 <html ng-app>
   <head>
     <meta charset="utf-8">
-    <title>Ctrl Angular.js:llä</title>
+    <title>Angular Way!!!</title>
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
     <script>
-      function NameCtrl($scope){
+      var nameApp = angular.module('nameApp', []);
+      nameApp.controller('NameCtrl', function ($scope){
         $scope.firstName = 'etunimi';
         $scope.lastName = 'sukunimi';
-      }
+      });
     </script>
   </head>
   <body ng-controller="NameCtrl">
