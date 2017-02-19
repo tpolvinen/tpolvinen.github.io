@@ -1,43 +1,78 @@
+<!DOCTYPE html>
+<html lang="fi">
 <html ng-app="nameApp">
-  <head>
-    <meta charset="utf-8">
-    <title>Tatun Angular!!!</title>
-    <link href="css/main.css" rel="stylesheet" type="text/css" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
-    <script>
-      var nameApp = angular.module('nameApp', []);
-      nameApp.controller('NameCtrl', function ($scope){
-        $scope.names = ['Tom', 'Dick', 'Harry'];
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <meta charset="utf-8">
+        <title>Tatun Angular!!!</title>
+        <link href="css/main.css" rel="stylesheet" type="text/css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.1/angular.min.js"></script>
+        <script>
+            var nameApp = angular.module('nameApp', []);
+            nameApp.controller('NameCtrl', function ($scope){
+                $scope.names = ['Tom', 'Dick', 'Harry'];
+                $scope.addName = function() {
+                    $scope.names.push($scope.enteredName);
+                    $scope.enteredName = '';
+                };
+                $scope.removeName = function(name) {
+                    var i = $scope.names.indexOf(name);
+                    $scope.names.splice(i, 1);
+                };
+            });
+        </script>
+        <script>
+            function vaihdaSivu(id) {
+                var p1 = document.getElementById("sivu1");
+                var p2 = document.getElementById("sivu2");
+                if (id =="koti") {
+                    p1.style.visibility="visible";
+                    p2.style.visibility="hidden";
+                    p1.style.height="auto";
+                    p2.style.height="0";
+                } else if(id == "angular") {
+                    p1.style.visibility="hidden";
+                    p2.style.visibility="visible";
+                    p1.style.height="0";
+                    p2.style.height="auto";
+                }
+            }
+        </script>
+    </head>
+    <body ng-controller="NameCtrl">
+        <div class="container">
+            <div id="navi">
+                <ul id="nav">
+                <li><a href="#" onclick="vaihdaSivu('koti');">Koti</a></li>
+                <li><a href="#" onclick="vaihdaSivu('angular');">Angular</a></li>
+                </ul>
+            </div>
+                <div id="sivut">
+                    <div id="sivu1">
+                        <h1>Koti</h1>
+                        <p>Teretulemast!</p>
+                        <p>Testattu Mac OS X 10.11.6:</p>
+                        <p>Google Chrome Version 55.0.2883.95 (64-bit) -OK<br>
+                        Firefox 50.1.0 -OK<br>
+                        Safari Version 10.0.3 (11602.4.8.0.1) -OK</p>
+                    </div>
+                <div id="sivu2">
+                    <h2>Every:</h2>
+                    <table>
+                        <tr ng-repeat="name in names">
+                            <td>{{name}}</td>
+                            <td>
+                            <button ng-click="removeName(name)">Poista</button>
+                            </td>
+                        </tr>
+                    </table>
 
-        $scope.addName = function() {
-          $scope.names.push($scope.enteredName);
-          $scope.enteredName = '';
-        };
-
-        $scope.removeName = function(name) {
-          var i = $scope.names.indexOf(name);
-          $scope.names.splice(i, 1);
-        };
-      });
-    </script>
-  </head>
-  <body ng-controller="NameCtrl">
-    Every:
-   
-      <table>
-  <tr ng-repeat="name in names">
-    <td>{{name}}</td>
-    <td>
-        <button ng-click="removeName(name)">
-            Poista
-          </button>
-    </td>
-  </tr>
-</table>
-    
-    <form ng-submit="addName()">
-      <input type="text" ng-model="enteredName">
-      <input type="submit" value="lisää">
-    </form>
-  </body>
+                    <form ng-submit="addName()">
+                        <input type="text" ng-model="enteredName">
+                        <input type="submit" value="lisää">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
