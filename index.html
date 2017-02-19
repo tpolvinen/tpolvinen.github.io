@@ -1,4 +1,4 @@
-<html ng-app="nameApp">
+<html ng-app>
   <head>
     <meta charset="utf-8">
     <title>Angular Way!!!</title>
@@ -7,7 +7,13 @@
       var nameApp = angular.module('nameApp', []);
       nameApp.controller('NameCtrl', function ($scope){
         $scope.firstName = 'etunimi';
-        $scope.lastName = 'sukunimi';
+        $scope.$watch('lastName', function(newValue, oldValue){
+          console.log('Uusi arvo on: ' + newValue);
+        });
+
+        setTimeout(function(){
+          $scope.lastName = 'sukunimi';
+        }, 1000);
       });
     </script>
   </head>
