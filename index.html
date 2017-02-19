@@ -4,16 +4,19 @@
     <title>HTML Starter</title>
   </head>
   <body>
-    Name:<input id="textInput" type="text"/>
+    Nimi:<input id="textInput" type="text"/>
     <br><br>
-    Tatulta terkkuja!
+    Hei <span id="nameDiv"></span>!
+    <br><br>
+    ...ja Tatulta terkkuja!
 
     <script>
       var textInputElement = document.getElementById('textInput');
+        nameDivElement = document.getElementById('nameDiv');
 
       textInputElement.addEventListener('keyup', function(){
         var text = textInputElement.value;
-        console.log('Uusi teksti on "' + text + '"');
+        nameDivElement.innerHTML = text;
       });
     </script>
   </body>

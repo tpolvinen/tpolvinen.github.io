@@ -1,1 +1,1 @@
-Muutos: Extracting text from the text input as it changes.
+Muutos: Updating a span when input text changes using the DOM API.
