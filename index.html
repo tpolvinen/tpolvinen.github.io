@@ -1,7 +1,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>HTML Starter</title>
+    <title>jQuerylla</title>
+    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script>
   </head>
   <body>
     Nimi:<input id="textInput" type="text"/>
@@ -11,12 +12,8 @@
     ...ja Tatulta terkkuja!
 
     <script>
-      var textInputElement = document.getElementById('textInput');
-        nameDivElement = document.getElementById('nameDiv');
-
-      textInputElement.addEventListener('keyup', function(){
-        var text = textInputElement.value;
-        nameDivElement.innerHTML = text;
+      $('#textInput').on('keyup', function(){
+        $('#nameDiv').html($('#textInput').val());
       });
     </script>
   </body>

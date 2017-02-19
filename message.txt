@@ -1,1 +1,1 @@
-Muutos: Updating a span when input text changes using the DOM API.
+Muutos: Updating a span when input text changes using jQuery.
