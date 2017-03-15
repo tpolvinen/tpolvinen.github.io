@@ -1,0 +1,22 @@
+{
+  "name": "tpolvinen.github.io",
+  "version": "1.0.0",
+  "description": "sads",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpolvinen/tpolvinen.github.io.git"
+  },
+  "keywords": [
+    "sad"
+  ],
+  "author": "Tatu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpolvinen/tpolvinen.github.io/issues"
+  },
+  "homepage": "https://github.com/tpolvinen/tpolvinen.github.io#readme"
+}
