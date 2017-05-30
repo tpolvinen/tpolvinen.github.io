@@ -1,8 +1,7 @@
 # tpolvinen.github.io
-## Tehtävä 6:
+## A Bit of Bootstrap:
 
-Julkaistu githubissa: https://tpolvinen.github.io
-sekä repoon: https://github.com/tpolvinen/tpolvinen.github.io
+A single page using HTML, CSS, JavaScript, jQuery, jQuery UI, Bootstrap, Lightbox & Google Forms.
 
-    
-
+Published at github.io: https://tpolvinen.github.io
+and repository: https://github.com/tpolvinen/tpolvinen.github.io
