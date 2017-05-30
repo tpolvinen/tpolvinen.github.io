@@ -1,5 +1,4 @@
-# tpolvinen.github.io
-## A Bit of Bootstrap:
+# A Bit of Bootstrap:
 
 A single page using HTML, CSS, JavaScript, jQuery, jQuery UI, Bootstrap, Lightbox & Google Forms.
 
