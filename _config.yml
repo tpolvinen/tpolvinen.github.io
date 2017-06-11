@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Tatu Polvinen
-title: Pilgrim's Progress
+title: AIoT thesis blog
 email: tatu.polvinen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog to report on progress of my bachelor's thesis on Agricultural Internet of Things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://tpolvinen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  tPolvinen
 
 # Build settings
 markdown: kramdown
