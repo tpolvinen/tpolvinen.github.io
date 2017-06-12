@@ -44,7 +44,7 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Site Name
+  name: AIoT_Thesis_Blog
   avatar: site-logo.png
   email: tatu.polvinen@gmail.com #youremail
   disqus-shortname: aiot-thesis-blog #your-disqus-shortname
