@@ -159,5 +159,7 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/macos,windows,linux,visualstudiocode,sublimetext,intellij
 
 _site
+codekit-config.json
+node_modules
 .sass-cache
 .jekyll-metadata
