@@ -3,10 +3,10 @@ layout: archivepage
 categories: [stories]
 title: Stories
 excerpt: "An archive of fictional stories sorted by date."
-hidelogo: true
+hidelogo: false
 search_omit: true
 archive:
-  image: images/reading-man.gif
+  image: images/pen-hand.gif
 ---
 <ul class="post-list">
 {% for post in site.categories.stories %}
