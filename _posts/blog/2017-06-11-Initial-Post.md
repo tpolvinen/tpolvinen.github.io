@@ -7,7 +7,7 @@ title: 'Initial post'
 excerpt: "Initial post & statement of intention"
 date: '2017-06-11T14:53:00+03:00'
 modified: '2017-06-18T20:59:00+03:00'
-tags: [tag2]
+tags: [about, meta]
 author: Author1
 hidelogo: true
 relatedposts:
