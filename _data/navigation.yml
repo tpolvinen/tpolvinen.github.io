@@ -8,12 +8,12 @@
   url: /blog/
   icon: pencil
 
-- title: Music
-  url: /music/
-  icon: music
+- title: Workflow
+  url: /workflow/
+  icon: cogs
   
-- title: Stories
-  url: /stories/
+- title: Articles & al.
+  url: /articles/
   icon: book
 
 - title: Tags

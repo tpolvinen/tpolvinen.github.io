@@ -6,9 +6,13 @@ modified:
 excerpt:
 image:
   feature:
+hidelogo: true
 search_omit: true
 sitemap: false
 ---
+<figure>
+    <img src="/images/site-logo.png" alt="site-logo" class="center non-selectable"/>
+</figure>
   
 <!-- Search form -->
 <form method="get" action="{{ site.url }}/search/" data-search-form class="simple-search">

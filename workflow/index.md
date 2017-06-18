@@ -1,19 +1,19 @@
 ---
 layout: archivepage
-categories: [music]
-title: Music
-excerpt: "An archive of music posts sorted by date."
+categories: [workflow]
+title: Workflow
+excerpt: "An archive of workflow posts sorted by date."
 hidelogo: true
 search_omit: true
 archive:
-  image: images/dancing-man.gif
+  image: images/site-logo.png
 ---
 <ul class="post-list">
-{% for post in site.categories.music %}
+{% for post in site.categories.workflow %}
   <li>
     <article>
-		<a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a>
-	</article>
+    <a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a>
+  </article>
     <footer>
       {% if post.categories[1] %}{% assign subcategory = post.categories[1] %}{% else %}{% assign subcategory = post.categories[0] %}{% endif %}
       <span title="{{ subcategory }} subcategory"><i class="fa fa-edit"></i>&nbsp;{{ subcategory }}</span>

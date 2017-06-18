@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Places I visit frequently...
-excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
+title: Links - Places visited alog the way
+excerpt: "A list of interesting internet links, such as blogs, sites, etc"
 hidelogo: true
 enable_chat: true
 search_omit: true
 ---
 <figure>
-    <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
+    <img src="/images/site-logo.png" alt="site-logo" class="center non-selectable"/>
 </figure>
 
 Links page. Add your content here.

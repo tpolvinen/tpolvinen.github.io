@@ -6,7 +6,7 @@ excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true
 archive:
-  image: images/pen-hand.gif
+  image: images/site-logo.png
 ---
 <ul class="post-list">
 {% for post in site.categories.blog %}
