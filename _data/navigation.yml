@@ -12,8 +12,8 @@
   url: /workflow/
   icon: cogs
   
-- title: Articles & al.
-  url: /articles/
+- title: Drafs & al.
+  url: /drafts/
   icon: book
 
 - title: Tags
