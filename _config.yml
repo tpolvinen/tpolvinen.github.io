@@ -53,10 +53,10 @@ owner:
   github: tPolvinen #your-github-name
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram:
-    user: #instagram-username
-    userId: #instagram-userId
-    clientId: #instagram-clientId
+  #instagram:
+  #  user: #instagram-username
+  #  userId: #instagram-userId
+  #  clientId: #instagram-clientId
   flickr: #username
   tumblr: #tumblr-name
   pinterest: #username
