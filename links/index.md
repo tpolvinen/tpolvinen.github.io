@@ -10,4 +10,4 @@ search_omit: true
     <img src="/images/site-logo.png" alt="site-logo" class="center non-selectable"/>
 </figure>
 
-Links page. Add your content here.
+Links page. Content coming soonish. :)
