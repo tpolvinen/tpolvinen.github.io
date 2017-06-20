@@ -6,13 +6,14 @@ comments: true
 title: 'I hate Word'
 excerpt: "A much better workflow with Markdown, Pandoc, Zotero & BetterBiBLaTeX"
 date: '2017-06-20T19:02:00+03:00'
-modified: '2017-06-20T19:02:00+03:00'
+modified: '2017-06-20T19:32:00+03:00'
 tags: [meta, workflow, markdown, pandoc, zotero, word]
 author: Author1
 hidelogo: true
 relatedposts:
 ---
-I just hate Word. My school requires that everyone turns in their thesis and most of their essays, reports and whatnot in Word (.docx) files. Well, technically it's allowed to turn in a PDF, but we only get a valid template file in .docx. 
+#### I just hate Word.
+Did I tell you I just hate Word? My school requires that everyone turns in their thesis and most of their essays, reports and whatnot in Word (.docx) files. Well, technically I'm allowed to turn in a PDF, but we only get a valid template file in a monstrous .docx with dozens of overlapping styles and settings.
 
 Therefore I'm testing a few workflows and tools like Pandoc and Zotero for scientific writing in order to 
 * do the actual writing in a text editor of my choice
@@ -28,6 +29,8 @@ Also, DISCLAIMER: This is not (yet, at least) a guide how to do it, but rather a
 For more information, please see [Chris Krycho's blog post](http://www.chriskrycho.com/2015/academic-markdown-and-citations.html)
 and [Pandoc User Manual -Citations](http://pandoc.org/MANUAL.html#citations)
 
+##### Needful Things:
+
 What we need to produce a half decent .docx file with text editor, Pandoc & bibliography application are (I'm using SublimeText & Zotero for now):
 
 * a markdown `textSource.md` file for text content with citation keys picked from bibliography
@@ -36,7 +39,7 @@ What we need to produce a half decent .docx file with text editor, Pandoc & bibl
 * a reference `template.docx` file for styles of final document (sadly, Pandoc does not take page layout from .docx reference file so I may have to rustle up my own LaTeX reference file for that)
 Note that you may name your files any way you like, but since we're using a command line tool like Pandoc let's not use spaces in file names. Also, special characters, dashes, dots and all things fancy should be avoided. :)
 
-Next, the commands I've used to test things:
+##### Next, the commands I've used to test things:
 
 ```
 pandoc textSource.md -f markdown -t docx --reference-docx=template.docx --toc -o output.docx
@@ -48,7 +51,7 @@ pandoc revelation.md --smart --standalone \
 --bibliography /Users/chris/Dropbox/writing/library.bib \
 --csl=/Users/chris/Dropbox/writing/chicago.csl -o revelation.docx
 ```
-↑ Which is (from Chris Krycho's blog) to be used as a reference how to apply a bibliography file in .bib format (in my case, BetterBiBLaTeX exported from Zotero).
+↑ Which is (from [Chris Krycho's blog post](http://www.chriskrycho.com/2015/academic-markdown-and-citations.html)) to be used as a reference how to apply a bibliography file in .bib format (in my case, BetterBiBLaTeX exported from Zotero).
 
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl -o output/tPolvinenOutput.docx
@@ -60,9 +63,9 @@ The Pandoc command...
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/output.docx
 ```
-↑ ...which will produce a final(ish) `output.docx` file from content in `textSource.md` file combined with bibliography in   ´bibliography.bib´ file, with styles from reference file `template.docx`.
+↑ ...which will produce a final(ish) `output.docx` file from content in `textSource.md` file combined with bibliography in   `bibliography.bib` file, with styles from reference file `template.docx`.
 
-For my own reference, the command with my own files & folder structure is:
 ```
 pandoc source/Tutkimusraportti.md --smart --standalone --bibliography bib/agri.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/tPolvinenTutkimusraporttiZ.docx
 ```
+↑ For my own reference, the command with my own files & folder structure. See my Github repo [Agri](https://github.com/tpolvinen/Agri).
