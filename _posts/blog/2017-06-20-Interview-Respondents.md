@@ -6,7 +6,7 @@ comments: true
 title: 'Looking for Respondents'
 excerpt: "Snowballing for respondents and the virtues of not shutting up (about your thesis)"
 date: '2017-06-20T23:53:00+03:00'
-modified: '2017-06-20T23:53:00+03:00'
+modified: '2017-06-21T00:05:00+03:00'
 tags: [interview, respondent, meta]
 author: Author1
 hidelogo: true
@@ -14,7 +14,7 @@ relatedposts:
 ---
 I'm on my third week already. Sheesh.
 
-I haven't got pretty much anything written since the research plan was accepted, but I've been chasing respondents to interview. I guess-hope that it counts for something. Also, I really haven't searched for additional material for the lit survey -but I've got some interesting links to papers and projects on algae cultivation.
+I haven't got pretty much anything written since the research plan was accepted, but I've been chasing respondents to interview. I guess-hope that it counts for something. Also, I really haven't searched for additional material for the lit survey -but I've got some promising contacts, interesting links to papers and projects on algae cultivation, drone photography and whatnot.
 
 To bring you up to speed, here's what I've got done on these first three weeks:
 
