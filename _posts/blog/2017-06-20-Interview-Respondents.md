@@ -18,6 +18,8 @@ I haven't got pretty much anything written since the research plan was accepted,
 
 To bring you up to speed, here's what I've got done on these first three weeks:
 
+#### Snowballing for respondents, will travel
+
 As I told about my thesis plan to one ol' friend of mine, he mentioned that one of our equally old acquaintance is in the process of setting up a plant factory startup company, pretty much as a hobby to begin with. He turned out to be very supportive and we set up a meeting where among other things discussed I was told about [Helsieni](http://www.helsieni.fi) company and other urban farmers. I wondered whether mushroom cultivation would count as plant production but was impressed as I read more about them. Definately good stuff.
 Luckily, Helsieni was one of the companies with a stand at Sustainable Business area of [World Village Festival](http://www.maailmakylassa.fi/english/home) 2017. I went, had a chat, some fried mushrooms and was invited to next [mycohacklab](http://mycohacklab.org) meet at Helsieni office. It turned out to be very nice, informal and frienly hobbyist meet and I got to know some nice people and to see how the cultivaton containers (actual repurposed shipping containers as plant factories) work.
 
