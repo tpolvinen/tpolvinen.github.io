@@ -15,7 +15,7 @@ relatedposts:
 #### I just hate Word.
 Did I tell you I just hate Word? My school requires that everyone turns in their thesis and most of their essays, reports and whatnot in Word (.docx) files. Well, technically I'm allowed to turn in a PDF, but we only get a valid template file in a monstrous .docx with dozens of overlapping styles and settings.
 
-Therefore I'm testing a few workflows and tools like Pandoc and Zotero for scientific writing in order to 
+Therefore I'm testing a few workflows and tools like Pandoc and Zotero for scientific writing in order to:
 * do the actual writing in a text editor of my choice
 * keep bibliography in a bibliography application
 * use the Word template file as a template file for conversion only
@@ -39,7 +39,7 @@ What we need to produce a half decent .docx file with text editor, Pandoc & bibl
 * a reference `template.docx` file for styles of final document (sadly, Pandoc does not take page layout from .docx reference file so I may have to rustle up my own LaTeX reference file for that)
 Note that you may name your files any way you like, but since we're using a command line tool like Pandoc let's not use spaces in file names. Also, special characters, dashes, dots and all things fancy should be avoided. :)
 
-##### Next, the commands I've used to test things:
+##### Needful Commands I've used:
 
 ```
 pandoc textSource.md -f markdown -t docx --reference-docx=template.docx --toc -o output.docx
@@ -58,7 +58,7 @@ pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography
 ```
 ↑ Which is to produce a .docx file from content in `textSource.md` file combined with bibliography in `bibliography.bib` file. Note the folders `source`, `bib` and `style` where text source, bibliography and style files are located in and that the final file will be in `output` folder. You may put them anywhere you like, just write the paths in the command.
 
-## TL;DR
+### TL;DR
 The Pandoc command...
 ```
 pandoc source/textSource.md --smart --standalone --bibliography=bib/bibliography.bib --csl=style/harvard1.csl --reference-docx=template/template.docx -o output/output.docx
