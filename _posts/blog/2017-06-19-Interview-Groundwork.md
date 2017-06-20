@@ -6,7 +6,7 @@ comments: true
 title: 'Laying Groundwork for Interviews'
 excerpt: "Preparing for themed interviews by reading some literature"
 date: '2017-06-19T22:30:00+03:00'
-modified: '2017-06-19T22:30:00+03:00'
+modified: '2017-06-20T11:47:00+03:00'
 tags: [interview, meta, theory]
 author: Author1
 hidelogo: true
@@ -23,6 +23,6 @@ While googling around wasn't very successful this time I asked some (vastly) mor
 
 **P. Alasuutari. Laadullinen tutkimus 2.0** [Vastapaino](http://vastapaino.fi/kirjat/laadullinen-tutkimus-2-0/)
 
-While I have a rather short time in hand to go through all of that, by reading though the most relevant -I think- parts of Handbook of Interview Research I managed to get get some additional insights and many confirmations that the way I've been collecting contacts and how I've been planning the interviews has been quite all right. I believe that I'll get some additional insights in a next couple of days while the rest of the material.
+While I have a rather short time in hand to go through all of that, by reading though the most relevant -I think- parts of Handbook of Interview Research I managed to get get some additional insights and many confirmations that the way I've been collecting contacts and how I've been planning the interviews has been quite all right. I believe that I'll get some additional insights in a next couple of days as I read the rest of the material.
 
 ![Photo of books](../../../images/posts/IMG_1253.jpg)
