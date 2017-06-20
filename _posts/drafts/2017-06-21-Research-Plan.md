@@ -13,4 +13,5 @@ hidelogo: true
 relatedposts:
 ---
 You can find my initial research plan in my Github repository, [here](https://github.com/tpolvinen/Agri/blob/master/tPolvinenOppariTutkimussuunnitelma.docx).
+
 The file itself is in Word (.docx) format and you can download it from it's Github page by clicking on 'Download' button.
