@@ -44,7 +44,7 @@ Note that you may name your files any way you like, but since we're using a comm
 ```
 pandoc textSource.md -f markdown -t docx --reference-docx=template.docx --toc -o output.docx
 ```
-↑ Which is to test that I can use a reference `template.docx` with `textSource.md` file in order to produce a new `output.docx` file that has the contents of `textSource.md` file with styles taken from reference `template.docx`. NOTE: with Word (.docx) reference file only **styles** will be applied to the resulting file and NOT the page format/layout. 
+↑ Which is to test that I can use a reference `template.docx` with `textSource.md` file in order to produce a new `output.docx` file that has the contents of `textSource.md` file with styles taken from reference `template.docx`. NOTE: with Word (.docx) reference file only **styles** will be applied to the resulting file and NOT the page format/layout, front page, table of contents, etc.
 
 ```
 pandoc revelation.md --smart --standalone \
