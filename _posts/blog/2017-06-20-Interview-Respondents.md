@@ -7,7 +7,7 @@ title: 'Looking for Respondents'
 excerpt: "Snowballing for respondents and the virtues of not shutting up (about your thesis)"
 date: '2017-06-20T23:53:00+03:00'
 modified: '2017-06-20T23:53:00+03:00'
-tags: [interview, meta, theory]
+tags: [interview, respondent, meta]
 author: Author1
 hidelogo: true
 relatedposts:
