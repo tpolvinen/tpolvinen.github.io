@@ -12,7 +12,6 @@ author: Author1
 hidelogo: true
 relatedposts:
 ---
-#### Current bibliography
 You can find my current bibliography in my Github repository, [here](https://github.com/tpolvinen/Agri/blob/master/bib/agri.bib).
 The file itself is in BetterBibLaTex format and with file extension .bib.
 
