@@ -27,7 +27,7 @@ From Helsieni's Facebook feed I read about [Open Source Circular Economy day](ht
 
 From Helsieni I also got to hear about [MTK](https://www.mtk.fi)'s [North Food seminar](https://startnorth.com/#/event/77) (also [here](https://docs.google.com/forms/d/e/1FAIpQLSdNV7kSAFjqLBi_fU74vj3fIH4aIP1m1pl_p6Hde4e3Gv9gtg/viewform?c=0&w=1)), where I met a couple of farmers interested in new ways of doing business, insect farmers from [Entocube](https://www.entocube.com), researchers from Helsinki and Aalto universities, organizers from [MTK Uusimaa](http://www.mtkuusimaa.fi) and many startup entrepreneurs working or intersted in food production.
 
-On the second day of the event/seminar we got a tour of Helsinki university's Faculty Agriculture and Forestry, where I made contacts with researchers working with National Plant Phenotyping Infrastructure FIRI and doctoral students working on their theses, one on microalgae and other on plant monitoring using multispectral drone photoraphy. This is getting awesome.
+On the second day of the event/seminar we got a tour of Helsinki university's Faculty of Agriculture and Forestry, where I made contacts with researchers working with National Plant Phenotyping Infrastructure FIRI and doctoral students working on their theses, one on microalgae and other on plant monitoring using multispectral drone photoraphy. This is getting awesome.
 
 From MTK's pages i read about [MTK 100 historiallinen työkonekavalkadi event](https://www.mtk.fi/mtk_100/tyokonekavalkadi/fi_FI/tyokonekavalkadi/) where I met with researchers from [Yara](http://www.yara.fi) and some very knowledgeable people working with [Valtra](http://www.valtra.fi).
 
