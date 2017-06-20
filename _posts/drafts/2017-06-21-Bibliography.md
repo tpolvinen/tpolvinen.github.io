@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: workflow
+categories: drafts
 share: true
 comments: true
 title: 'Current Bibliography'
