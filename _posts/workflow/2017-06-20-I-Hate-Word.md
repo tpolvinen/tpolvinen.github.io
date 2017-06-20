@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, views]
+categories: workflow
 share: true
 comments: true
 title: 'I hate Word'

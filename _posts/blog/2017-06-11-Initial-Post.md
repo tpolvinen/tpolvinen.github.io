@@ -6,8 +6,8 @@ comments: true
 title: 'Initial post'
 excerpt: "Initial post & statement of intention"
 date: '2017-06-11T14:53:00+03:00'
-modified: '2017-06-18T20:59:00+03:00'
-tags: [about, meta]
+modified: '2017-06-20T20:22:00+03:00'
+tags: meta
 author: Author1
 hidelogo: true
 relatedposts:
