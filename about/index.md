@@ -9,7 +9,7 @@ search_omit: false
     <a href="../images/smallFace.png"><img src="../images/smallFace.png" alt="image" class="center non-selectable"></a>
 </figure>
 
-I'm Tatu, a BIT / IT / software dev. student at Haaga-Helia University of Applied Sciences. I came across the Agricultural applicatons of Internet of Things quite accidentally, but since things looked interesting and I find food production rather important, I rustled up a research plan-ish thing for a survey. It was accepted as a plan for my bachelor's thesis. Shocking, I know. 
+I'm Tatu, a BIT / IT / software dev. student at Haaga-Helia University of Applied Sciences. I came across the Agricultural applicatons of Internet of Things quite accidentally, but since things looked interesting and I find food production rather important, I rustled up a research plan-ish thing for an overview. It was accepted as a plan for my bachelor's thesis. Shocking, I know. 
 
 In case I haven't covered everything in this blog or you would like to read the actual work-in-progress of my survey-thesis, you can find the plan along workflow description and all other files in my Github repository at: [https://github.com/tpolvinen/Agri](https://github.com/tpolvinen/Agri)
 
