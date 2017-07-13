@@ -14,6 +14,13 @@ relatedposts:
 ---
 At the second day of [North Food](https://startnorth.com/#/event/77) event I attended to [Juho Kotala](https://tuhat.helsinki.fi/portal/fi/persons/juho-kotala(65a3c557-5dbb-427d-b2d8-e3b3c8b8f1b4).html)'s presentation of his ongoing research on drone photography in crop monitoring. Although he's very busy with his research he kindly agreed to meet me and show his work in a bit more detail than he could do in his presentation.
 
+<figure class="half">
+    <img src="../../../images/posts/IMG_1219.jpg" alt="Juho's presentation">
+    <img src="../../../images/posts/IMG_1330.jpg" alt="Koetilantie 5 sign">
+    <figcaption>Juho's presentation & Koetilantie 5 sign. The drone in the middle is the one he uses in his research, another one is just a toy. Note the camera rig he constructed himself. Photos by author.</figcaption>
+</figure>
+
+
 We met at Helsinki University's Department of Agricultural Sciences at [Viikki campus](http://www.helsinki.fi/agriculturalsciences/department/map.html). While my knowledge of argotech is rather limited -which is kind of the point of doing this in the first place- he guided me through some key aspects of his work and I left with a much more detailed image of what can and can not be done with current technology.
 
 I had a rather enthusiastic, starry-eyed even, vision of how multispectral drone photography could pretty much lead a revolution in crop production and everyone could enjoy massive amounts of cheap, accurate, up-to-date data of their crops. After Juho had run me through the real deal of the work, the data, the implications and the conclusion, well, *damn*. So much that I'm still debating should the title of this post  be "Everything Is Hard And Nothing Is Easy", but I'm uncertain of the capitalization.
