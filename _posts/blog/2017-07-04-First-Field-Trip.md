@@ -12,7 +12,7 @@ author: Author1
 hidelogo: true
 relatedposts:
 ---
-As I like to establish a working relationship with my respondents before the actual interviews I took a very informal field trip in order to get to know one of my potential respondents a little bit better.
+As I like to establish a working relationship with my respondents before the actual interviews, I took a very informal field trip in order to get to know one of my potential respondents a little bit better.
 
 <figure class="half">
     <img src="../../../images/posts/IMG_1372.jpg" alt="Humppila begins">
