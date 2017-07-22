@@ -10,7 +10,8 @@ modified: '2017-07-22T13:12:00+03:00'
 tags: [research, literature survey, meta]
 author: Author1
 hidelogo: true
-relatedposts: url: /blog/Search-for-Research/
+relatedposts:
+ - url: /blog/Search-for-Research/
 ---
 A recent news article in [Helsingin sanomat](hs.fi) piqued my interest: in the deepest mine in Europe at Pyhäjärvi, [Luonnonvarakeskus (Luke)](https://www.luke.fi) is running a research project on how plants like potatoes and nettle could be grown deep underground. In this case, almost 700 meters underground. Here's the article in Finnish: [Euroopan syvin kaivos...](http://www.hs.fi/kotimaa/art-2000005280437.html) and the project's page on Luke's website: [Älykästä tutkimusta ja koetuotantoa](https://www.luke.fi/projektit/alykasta-tutkimusta-ja-koetuotantoa/). I've got in touch with Luke and sent initial emails to researchers working on this project, but as most of the people are on their summer vacations I've yet to hear back from them. I'll get back on this a bit later in my future posts.
 
