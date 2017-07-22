@@ -6,7 +6,7 @@ comments: true
 title: 'Research search'
 excerpt: "An update on stuff I've found"
 date: '2017-07-22T02:00:00+03:00'
-modified: '2017-07-22T02:00:00+03:00'
+modified: '2017-07-22T10:20:00+03:00'
 tags: [research, literature survey, meta]
 author: Author1
 hidelogo: true
@@ -25,6 +25,11 @@ While browsing some promising articles, I came across [Field and Service Robotic
 Also, Elsevier's journal [Computers and Electronics in Agriculture](https://www.journals.elsevier.com/computers-and-electronics-in-agriculture/) that I found via *Acta Horticulturae* is just as well behind a paywall. I hope I can find a way in, but I'm feeling a bit sads. I'm going home.
 
 Which means, to Finnish universities like [University of Helsinki](https://www.helsinki.fi/en) and [Aalto university](http://www.aalto.fi/en/). This was encouraged by finding [Timo Oksanen's](http://autsys.aalto.fi/en/TimoOksanen) [Robottikylvön ja -kylvömuokkauksen mahdollisuudet ja haasteet Suomessa (PDF)](http://www.smts.fi/MTP_julkaisu_2014/Esitykset/Oksanen_Linkolehto_Robottikylvon_ja-kylvomuokkauksen_mahdollisuudet_ja_haasteet_Suomessa.pdf) via [The Scientific Agricultural Society of Finland](http://www.smts.fi/en)'s bi annual conference *Maataloustieteen päivät*, which was a find on it's own. But since I forgot which way I found it, I've also started to keep track of which way I came across it in my notebook (pen and paper --shocking, I know), in addition of keeping track of what I find and where in my [Evernote](https://evernote.com). Finally, sources making it to my work get added to my [Zotero](https://www.zotero.org) database. When I feel like I've got something to write home about I write about it in this blog to clear the image a little bit. Then, I'll get around to actual writing. I think-feel this system could be improved upon a lot but right now it serves me well enough. Please comment or email me if you have any advice!
+
+<figure>
+    <img src="../../../images/posts/IMG_1737.jpg" alt="Notebook">
+    <figcaption>Messy first edition way of keeping track of my browsing. Photo by author.</figcaption>
+</figure>
 
 Another case in point, I've got no clue how I came across [Tyynelän tila](http://tyynelantila.fi), but their pages, both web and [FB](https://www.facebook.com/Tyynelantila) combined with Etelä-Saimaa's [article (PDF)](http://tyynelantila.fi/wp-content/uploads/2015/05/15.5.2015-Etelä-Saimaan-uutisaukeama.pdf) and Kauppalehti's [article (PDF)](http://tyynelantila.fi/wp-content/uploads/2013/08/Kauppalehti_13.08.2013_pienempi-tiedosto.pdf) convinced me that I'd better contact Juuso Joona, master of the farm and see if I could visit.
 
