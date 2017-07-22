@@ -4,7 +4,7 @@ categories: [blog, views]
 share: true
 comments: true
 title: 'Research Search'
-excerpt: "An update on stuff I've found, and how I've found it"
+excerpt: "An update on the stuff I've found, and how I've found it"
 date: '2017-07-22T02:00:00+03:00'
 modified: '2017-07-22T13:12:00+03:00'
 tags: [research, literature survey, meta]
