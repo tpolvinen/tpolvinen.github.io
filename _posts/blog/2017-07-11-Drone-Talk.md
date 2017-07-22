@@ -12,7 +12,7 @@ author: Author1
 hidelogo: true
 relatedposts:
 ---
-At the second day of [North Food](https://startnorth.com/#/event/77) event I attended to [Juho Kotala](https://tuhat.helsinki.fi/portal/fi/persons/juho-kotala(65a3c557-5dbb-427d-b2d8-e3b3c8b8f1b4).html)'s presentation of his ongoing research on drone photography in crop monitoring. Although he's very busy with his research he kindly agreed to meet me and show his work in a bit more detail than he could do in his presentation.
+At the second day of [North Food](https://startnorth.com/#/event/77) event I attended to [Juho Kotala](https://tuhat.helsinki.fi/portal/fi/persons/juho-kotala(65a3c557-5dbb-427d-b2d8-e3b3c8b8f1b4).html)'s presentation of his ongoing research on aerial drone photography in crop monitoring. Although he's very busy with his research he kindly agreed to meet me and show his work in a bit more detail than he could do in his presentation.
 
 <figure class="half">
     <img src="../../../images/posts/IMG_1219.jpg" alt="Juho's presentation">
@@ -40,3 +40,5 @@ All this leads to conclusion that to get actionable data with drones these days,
 So could this be a business? It can only be done locally and needs to be done often and diligently for effect. Juho estimated that the price point of max one to two euros per hectare, which may be a problem. Anything more would not really sell because the information would just be an addition to what farmers already *kind of* know, not a game changer. Therefore, he thinks that drone photography could be a handy additional tool for field and crop analysts and his own estimate we could be seeing real commercial crop monitoring products in next, say, two to five years. But currently, he is to his knowledge the only person around nordics, possibly Europe, doing research on the subject.
 
 Just please try not to flood his email and phone just now, he's very busy with the research and he will publish the results as soon as possible. Besides, I still need / want to get a formal interview from him for my thesis.
+
+T
