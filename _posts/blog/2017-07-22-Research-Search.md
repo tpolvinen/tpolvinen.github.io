@@ -15,7 +15,7 @@ relatedposts:
 ---
 A recent news article in [Helsingin sanomat](hs.fi) piqued my interest: in the deepest mine in Europe at Pyhäjärvi, [Luonnonvarakeskus (Luke)](https://www.luke.fi) is running a research project on how plants like potatoes and nettle could be grown deep underground. In this case, almost 700 meters underground. Here's the article in Finnish: [Euroopan syvin kaivos...](http://www.hs.fi/kotimaa/art-2000005280437.html) and the project's page on Luke's website: [Älykästä tutkimusta ja koetuotantoa](https://www.luke.fi/projektit/alykasta-tutkimusta-ja-koetuotantoa/). I've got in touch with Luke and sent initial emails to researchers working on this project, but as most of the people are on their summer vacations I've yet to hear back from them. I'll get back on this a bit later in my future posts.
 
-In the meanwhile, I've been looking for more research papers, researchers and articles to rebuild a better version of my literature survey. After looking into --just a glance, really-- professor [Salah Sukkarieh's](http://sydney.edu.au/engineering/people/salah.sukkarieh.php) work on [University of Sydney](http://sydney.edu.au)'s pages I  I got a hunch that it might be a good idea to further look into what I could find by searching for organizations first rather than research. So, instead of the usual *google + google scholar + keywords* combination I've looked into different organizations like universities and unions, people working in those organizations, their publications and events.
+In the meanwhile, I've been looking for more research papers, researchers and articles to rebuild a better version of my literature survey. After looking into --just a glance, really-- professor [Salah Sukkarieh's](http://sydney.edu.au/engineering/people/salah.sukkarieh.php) work on [University of Sydney](http://sydney.edu.au)'s pages I got a hunch that it might be a good idea to further look into what I could find by searching for organizations first and then browsing through their publications. So, instead of the usual *google + google scholar + keywords* combination I've looked into different organizations like universities and agricultural unions, people working in those organizations, their publications and events.
 
 But before going into that, I'd like to update you on how and what I've found recently:
 Via Sukkarieh's articles I found [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html) and [International Society for Horticultural Science](http://www.ishs.org), "The world's leading independent organization of horticultural scientists". ISHS has many [publications](http://www.ishs.org/publications), especially [Acta Horticulturae](http://www.ishs.org/acta-horticulturae) where I've found several articles I would like to read, but unfortunately it's not available in my school library and I'm not sure if paying for membership would be profitable enough. Same with the Journal of Field Robotics. So far I've marked the articles I've found most interesting and will return to them if needed. If so, I'll see if I can get university library to get an access. It appears that the first issue of the current year of the Journal of Field Robotics is freely available [here](http://onlinelibrary.wiley.com/doi/10.1002/rob.2017.34.issue-1/issuetoc), but I didn't find any articles there that would be relevant to my work.
@@ -52,13 +52,4 @@ Good night,
 
 T
 
-
-PS: I noticed that I had mentioned Elsevier Open Access on a note about *Computers and Electronics in Agriculture* journal. Turns out several of the said journals articles are freely available [here](http://www.sciencedirect.com/science/journal/01681699/open-access?sdc=1). I just needed to click on *Open Access articles* to bring them up. Writing notes along and about your surfing-browsing is **useful**. No more sads. :D 
-
-
-
-
-
- 
-
-
+PS: I noticed that I had mentioned Elsevier Open Access on a note about *Computers and Electronics in Agriculture* journal. Turns out several of the said journals articles are freely available [here](http://www.sciencedirect.com/science/journal/01681699/open-access?sdc=1). I just needed to click on *Open Access articles* to bring them up. Writing notes along and about your surfing-browsing is **useful**. No more sads. :D
