@@ -27,7 +27,7 @@ But why am I writing about that? After attending [Ropecon](https://2017.ropecon.
 
 After a bit of apprehension / hesitation I sent him an email last night, telling about my thesis and how I thought it would be useful to have his interview. I almost spilled my coffee when he replied this morning and told that we could meet right up today. I swear, it usually takes weeks, several emails and phone calls all over the place to get people to respond, let alone agree to meet. Not naming names here, but sheesh. But after all, I totally understand that for a busy CEO I'm basically just leeching valuable time and not adding much value to their firm. So there's that --and no hard feelings. :-)
 
-But this time, I got an opening and what the hell, straight to the deep end: take a bus to Otaniemi, go to talk with a Senior Scientist and a Doctor of Science. Me, a BIT student, writing about a field I haven't got the foggiest --or had, before this process-- about. And proposing a qualitative interview, none the less.
+But this time, I got an opening and what the hell, straight to the deep end: take a bus to Otaniemi, go to talk with a Senior Scientist and a Doctor of Science. Me, a BIT student, writing about a field I haven't got the foggiest --or had, before this process-- about. And proposing a qualitative interview, no less.
 
 Oh well. Here, hold my beer.
 
