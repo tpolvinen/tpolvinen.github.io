@@ -12,4 +12,6 @@ author: Author1
 hidelogo: true
 relatedposts:
 ---
-This is a draft post to test visibility when post categories are not specified in post's YAML header.
+This is a draft post to test visibility when post categories are not specified in post's YAML header. 
+
+One should add `[blog, views]` to categories to make this appear in blog. Currently this post can be viewed through Tags page, where it can be seen among other posts tagged as `meta`.
