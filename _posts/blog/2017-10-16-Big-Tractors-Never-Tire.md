@@ -6,7 +6,7 @@ comments: true
 title: 'Big Tractors Never Tire'
 excerpt: "A field trip to KoneAgria exhibition and catching up with interview respondents"
 date: '2017-10-17T13:12:00+03:00'
-modified: '2017-10-17T13:12:00+03:00'
+modified: '2017-10-17T13:16:00+03:00'
 tags: [interview, respondent, valtra, yara, luke, koneagria, meta]
 author: Author1
 hidelogo: true
@@ -23,7 +23,7 @@ I set out early on Friday 13th, October 2017 with the morning train to Tampere. 
 
 I had set my primary goal to meet with **Pekka Isosävi** from Valtra with whom I’ve exchanged emails on a prospect of a meeting and an interview. So far with limited success due to summer vacations and understandably more pressing business affairs on his part. He invited me to meet him at the exhibition and I hoped that a face-to-face meeting would nudge things forward a little bit —and he did not disappoint.
 
-My other goal was set on meeting **Katja Alhonoja**or some of her colleagues from Yara, with similar intent as with Pekka since our correspondence had experienced a bit of a hiatus since last summer. I had not planned any other specific meetings or goals, other than that of the usual fact-finding and respondent-hunting: looking around, going about, seeing what’s what and who’s who. 
+My other goal was set on meeting **Katja Alhonoja** or some of her colleagues from Yara, with similar intent as with Pekka since our correspondence had experienced a bit of a hiatus since last summer. I had not planned any other specific meetings or goals, other than that of the usual fact-finding and respondent-hunting: looking around, going about, seeing what’s what and who’s who. 
 
 As I was orienting myself to the layout of the exhibition, _pretending_ to be rather lost and clueless plus _superbly feigning_ an inability to read a simplified exhibition centre map, I came across a stand quite unlike the big machinery exhibits around it. There was an engine cowl of a Valtra tractor and behind it, where a cockpit of a tractor would be, a workstation stand with several screens, electronics enclosures connected by a lot of wires going about on the sides, few actuators at the bottom shelf and a sign ”Maatalouden Internet” (Internet of agriculture) hanging above. This must be the place.
 
