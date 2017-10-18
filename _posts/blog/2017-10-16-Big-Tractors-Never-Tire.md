@@ -6,7 +6,7 @@ comments: true
 title: 'Big Tractors Never Tire'
 excerpt: "A field trip to KoneAgria exhibition and catching up with interview respondents"
 date: '2017-10-17T13:12:00+03:00'
-modified: '2017-10-17T13:16:00+03:00'
+modified: '2017-10-18T13:12:10+03:00'
 tags: [interview, respondent, valtra, yara, luke, koneagria, meta]
 author: Author1
 hidelogo: true
