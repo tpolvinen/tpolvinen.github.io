@@ -13,7 +13,7 @@ hidelogo: true
 relatedposts:
 ---
 
-## KoneAgria 2017 exhibition at Tampere
+### KoneAgria 2017 exhibition at Tampere
 
 ”**KoneAgria is an agricultural technology exhibition for agricultural professionals.**”
 
